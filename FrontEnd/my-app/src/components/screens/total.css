@@ -1,0 +1,439 @@
+.seabar.form-control {
+    padding-left: 2.375rem;
+    border: none;
+    border-bottom: 1px solid #000000;
+    border-radius: 0px;
+}
+
+.seabar.form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    border: none;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+.seabarinputs{
+    margin-top: 20px;
+}
+
+.productpic {
+    height: 40px;
+    width: 45px;
+}
+
+.tottable {
+    margin-top: 10px;
+}
+
+.cancel {
+    text-align: left;
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: #5861ae;
+    border: 1px solid #5861ae;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.proceed {
+    background: #5861ae 0% 0% no-repeat padding-box;
+    border: 1px solid #5861ae;
+    border-radius: 4px;
+    margin-left: 20px;
+    opacity: 1;
+}
+
+.butord {
+    text-align: right;
+}
+
+.modal-header {
+    background: #5861ae 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: #ffffff;
+}
+
+.modal {
+    left: 51%;
+    opacity: 2;
+    padding-top: 150px;
+    width: 50%;
+}
+
+.addressg{
+    margin-top: 20px;
+}
+
+.btncon{
+    margin-left: 480px;
+    margin-top: 10px;
+}
+.sumtb {
+    width: 100%;
+    border-bottom: 1.5px solid rgb(108, 49, 163);
+    padding: 10px;
+}
+.mainadd {
+    background: #f4f9ff 0% 0% no-repeat padding-box;
+    opacity: 1;
+    /* padding: 30px; */
+    font-size: 10px !important;
+}
+
+.main-head {
+    background: #5861ae 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 720px;
+}
+
+.navimg {
+    padding-top: 70px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.navimg1 {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.navimg2 {
+    padding-left: 20px;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+}
+.sscreatebtns{
+    margin-left: 50px;
+    margin-top: -100px;
+}
+.ssordersidebar {
+    background-color: #5861ae;
+    height: 1200px;
+    width: 60px;
+}
+
+.ssordersidebar1 {
+    background-color: #5861ae;
+    height: 550px;
+    width: 60px;
+}
+
+.ssorderlist {
+    background-color: white;
+    height: 40px;
+}
+
+.ssorderlist img {
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.ssorderhome {
+    margin-top: 55px;
+}
+
+.ssorderhome,
+.ssordermore {
+    margin-bottom: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+.ssordersbody {
+    display: flex;
+}
+
+.ssorderhead {
+    background-color: #ffffff;
+    box-shadow: 0px 2px 48px #0000000f;
+    opacity: 1;
+    height: 80px;
+}
+
+.ssorderlefttext {
+    margin-left: 20px;
+}
+
+.ssorderdisplayhead {
+    display: flex;
+}
+
+.ssorderHPC {
+    display: flex;
+    margin-left: 52%;
+    margin-right: 20px;
+}
+
+.ssorderHPC p {
+    border: 1px solid #e3e3e3;
+    opacity: 0.2;
+    margin-left: 50px;
+}
+
+.ssorderHPC h6 {
+    font-size: 20px;
+    font-weight: 400;
+    margin: auto;
+    color: #565657;
+    margin-left: 5px;
+}
+
+.ssorderlefttext {
+    color: #5861ae;
+}
+
+.ssorderrightbutton {
+    margin-left: auto;
+    background-color: #5861ae;
+    display: flex;
+    width: 213px;
+    height: 80px;
+}
+
+.ssorderrightbutton img {
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    margin: auto;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+.ssorderrightname {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin: auto;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.ssordersignupbody {
+    display: flex;
+}
+
+.ssorders111 {
+    margin-top: 30px;
+}
+
+.tbhead1 {
+    background-color: #000000;
+    color: white;
+    height: 20px;
+}
+.ssclosebtn{
+    margin-bottom: 0%;
+}
+
+.ssorderfooter {
+    background-color: black;
+    height: 50px;
+    border: 1px solid #707070;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.orddets {
+    font: normal normal 770 16px/20px Open Sans;
+    letter-spacing: 0.4px;
+    color: #251e33;
+    opacity: 1;
+    padding: 10px 0px;
+    margin-bottom: 0%;
+}
+
+.spamrate {
+    font: normal normal 600 20px/27px Open Sans;
+    letter-spacing: 0.48px;
+    color: #5861ae;
+    opacity: 1;
+}
+
+.sumcoss {
+    letter-spacing: 0.35px;
+    color: #396a9e;
+    opacity: 1;
+    text-align: right;
+    font: normal normal 700 18px/25px Open Sans;
+}
+
+.sumdown {
+    font: normal normal 700 18px/25px Open Sans;
+    letter-spacing: 0.35px;
+    color: #1b2734;
+    opacity: 1;
+    text-align: right;
+}
+
+.finpric {
+    opacity: 1;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    padding: 10px 0px;
+    background: #959eee 0% 0% no-repeat padding-box;
+    font: normal normal 700 18px/25px Open Sans;
+}
+
+.confbtn {
+    text-align: right;
+}
+
+.mainh1 {
+    text-align: left;
+    font: normal normal 900 100px/120px Avenir;
+    letter-spacing: 0px;
+    color: #5861ae;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.mainh2 {
+    font-size: 32px;
+    letter-spacing: 1.28px;
+    color: #4552c1;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.inputform {
+    border: none;
+    border-bottom: 1px solid #000000;
+    background: #b9c0fd00 0% 0% no-repeat padding-box;
+    border-radius: 0px;
+    padding: 20px 0px;
+}
+
+.img {
+    width: 20px;
+    height: 20px;
+}
+
+.sideb {
+    background: #5861ae 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 720px;
+}
+
+.sideb1 {
+    margin: auto;
+}
+
+.createorderb {
+    position: absolute !important;
+    padding-top: 120px;
+    padding-left: 500px;
+    margin-bottom: 0%;
+}
+
+.sidebicon {
+    color: #ffffff;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.sidebicon1 {
+    color: #5861ae;
+    font-size: 25px;
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+.col-lg-12 {
+    padding: 0px;
+}
+
+strong {
+    margin-top: 30px !important;
+}
+
+.addressallg {
+    display: flex;
+}
+
+.boxg {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    max-width: 200px;
+    border: #4552c1 1px;
+}
+
+.contentg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: green;
+}
+
+/* Order Successful */
+
+.ssforcancelorder{
+    margin: auto;
+    width: 300px;
+    height: 320px;
+    margin-top: 150px;
+    background-color: white;
+    border:0.5px solid rgb(240, 234, 234);
+    margin-right: 700px;
+    border-radius: 5px;
+}
+.ssimageorders{
+    background-color:rgb(87, 87, 156);
+    border-radius: 55%;
+    opacity: 0.9;
+}
+.ssAlertheaderss{
+    margin-left: 85px;
+    margin-top: -20px;
+}
+.sssuccessfulltext{
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.sssuccessfulimages{
+    color: rgb(120, 120, 167);
+    margin-left : 120px;
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.ssalertmessage{
+    margin-left: 40px;
+}
+.ssalertmessage p {
+    font-size: 16px;
+}
+.ssalertmsgpara{
+    margin-top: -80px;
+    margin-left: 50px;
+}
+.ssalertbtnss{
+    margin-left: 70px;
+    margin-bottom: 10px;
+    margin-top: -40px;
+}
+.ssalertbtnss button {
+    background-color: #5861AE;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    padding: 8px;
+    width: 85px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+    width: 150px;
+}
